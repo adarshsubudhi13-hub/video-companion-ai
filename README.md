@@ -88,9 +88,10 @@ Add screenshots here.
 Example:
 
 ```
-/screenshots/home.png
-/screenshots/dashboard.png
-/screenshots/notes.png
+<img width="786" height="737" alt="image" src="https://github.com/user-attachments/assets/f99ce519-67bb-47e7-9c19-74e03d0aa611" />
+<img width="763" height="746" alt="image" src="https://github.com/user-attachments/assets/680e172c-c396-4fcb-aec2-3f981663493d" />
+<img width="770" height="672" alt="image" src="https://github.com/user-attachments/assets/c72af615-ac44-452b-bc25-01d6504b5be5" />
+
 ```
 
 ---
